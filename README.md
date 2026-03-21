@@ -28,5 +28,5 @@ MongoDB | Git | REST APIs
 ---
 
 ## 📫 Contact
-- LinkedIn: [link]
-- Email: [email]
+- LinkedIn: https://www.linkedin.com/in/emmanuelenzeyi/
+- Email: enzeyisiema@gmail.com
