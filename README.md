@@ -1,7 +1,7 @@
 # Hi, I'm Emmanuel 👋
 
 💻 Software Engineer (Junior)
-🧠 Entrepreneur. Technologist. Philanthropist. Muslim. 
+🧠 Entrepreneur. Technologist. Philanthropist. Muslim.
 🚑 At the frontline of the AI Revolution in Africa. Alhamdulillah for everything  
 
 ---
