@@ -1,8 +1,8 @@
 # Hi, I'm Emmanuel 👋
 
-💻 Software Engineer (Junior)  
-🧠 Background in Psychology  
-🚑 Interested in Health Tech & Mental Health Systems  
+💻 Software Engineer (Junior)
+🧠 Entrepreneur. Technologist. Philanthropist. Muslim. 
+🚑 At the frontline of the AI Revolution in Africa. Alhamdulillah for everything  
 
 ---
 
