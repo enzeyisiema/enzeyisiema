@@ -1,10 +1,12 @@
 # Hi, I'm Emmanuel 👋
 
-💻 Software Engineer (Junior)
+AI and Machine Learning Engineer. 
 
-🧠 Entrepreneur. Technologist. Philanthropist. Muslim.
+AI Ethicist. 
 
-🚑 At the frontline of the AI Revolution in Africa. Alhamdulillah for everything  
+Philanthropist.  Muslim.
+
+At the frontline of the AI Revolution in Africa. 
 
 ---
 
