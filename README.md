@@ -1,31 +1,31 @@
-# Hi, I'm Emmanuel 👋
-
-AI and Machine Learning Engineer. AI in Healthcare Specialist.
-
-At the frontline of the AI Revolution in Africa.
----
-
-## 🚀 What I Do
-- Build full-stack web applications
-- Design REST APIs
-- Focus on user-centered systems
-
----
-
-## 🔝 Featured Projects
-- Mental Health Tracker (Full-stack app)
-- Health Appointment API (Backend system)
-- Client Dashboard (Business tool)
-
----
-
 ## 🛠 Tech Stack
-JavaScript | TypeScript | Python  
-React | Node.js | Express  
-MongoDB | Git | REST APIs  
 
----
+**Languages:**  
+Python | SQL | JavaScript | TypeScript  
 
-## 📫 Contact
-- LinkedIn: https://www.linkedin.com/in/emmanuelenzeyi/
-- Email: enzeyisiema@gmail.com
+**Machine Learning & AI:**  
+Scikit-learn | TensorFlow | PyTorch | Keras  
+Pandas | NumPy | Matplotlib | Seaborn  
+
+**AI in Healthcare (Specialization):**  
+Data preprocessing | Predictive modeling | Time-series analysis  
+Model evaluation (ROC, Precision/Recall)  
+Healthcare data systems & interoperability (FHIR basics)
+
+**Backend & APIs:**  
+Node.js | Express | FastAPI  
+REST APIs | Microservices  
+
+**Data & Databases:**  
+MongoDB | PostgreSQL  
+Data Pipelines | ETL Processes  
+
+**MLOps & Deployment:**  
+Docker | Git | CI/CD  
+Model deployment (APIs, cloud-ready services)  
+
+**Cloud & Tools (Familiarity):**  
+AWS (S3, EC2) | Google Cloud (Vertex AI basics)  
+
+**Other:**  
+System Design | Agile Development | Version Control  
