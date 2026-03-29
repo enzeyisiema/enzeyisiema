@@ -1,13 +1,8 @@
 # Hi, I'm Emmanuel 👋
 
-AI and Machine Learning Engineer. 
+AI and Machine Learning Engineer. AI in Healthcare Specialist.
 
-AI Ethicist. 
-
-Philanthropist.  Muslim.
-
-At the frontline of the AI Revolution in Africa. 
-
+At the frontline of the AI Revolution in Africa.
 ---
 
 ## 🚀 What I Do
